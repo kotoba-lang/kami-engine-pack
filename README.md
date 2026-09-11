@@ -5,7 +5,7 @@ energy scaled to pack level, then derated for the discharge rate the aircraft
 actually pulls. Registers on the same `cae.solver` contract as the rotor, motor
 and aero solvers.
 
-Zero-dep portable `.cljc`. Run `clojure -M:dev:test`.
+Zero-dep portable `.cljc`. Run `kbb -M:dev:test`.
 
 ## Why a solver and not a constant
 
